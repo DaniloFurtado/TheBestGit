@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_card_item_list">0.2dp</dimen>
+    <dimen name="size_text_item_list">17sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="size_show_photo_detail">400dp</dimen>
+    <dimen name="text_size_tittle">16sp</dimen>
+    <dimen name="margin_card">8dp</dimen>
+    <dimen name="text_size_detal_user">15sp</dimen>
+    <dimen name="margin_card_list_detail">4dp</dimen>
+    <integer name="columns_grid">2</integer>
+</resources>

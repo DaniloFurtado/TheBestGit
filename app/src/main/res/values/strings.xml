@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name_insta">The Best Git</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="nome">Nome:</string>
+    <string name="local">Local:</string>
+    <string name="three_point">…</string>
+    <string name="repos">Repos</string>
+    <string name="loading">Loading…</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="criado_em">Criado em:</string>
+    <string name="blog">Blog:</string>
+    <string name="email">Email:</string>
+    <string name="id_user">Id User</string>
+    <string name="company">Empresa:</string>
+    <string name="type">Tipo:</string>
+    <string name="updated">Atualizado:</string>
+    <string name="not_informed">Não informado</string>
+    <string name="retry">Tentar Novamente</string>
+    <string name="algo_errado">Algo deu Errado</string>
+</resources>
