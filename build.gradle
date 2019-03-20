@@ -12,7 +12,6 @@ buildscript {
         anko_version = '0.10.8'
         numberSdk = 26
         compileSdk = 28
-        spek_version = '2.0.0-rc.1'
         android_junit5_version = '1.2.0.0'
         junit5_runner = '0.2.2'
         mockito_core_version = '2.1.0'
@@ -25,7 +24,6 @@ buildscript {
     dependencies {
         classpath "com.android.tools.build:gradle:$gradle_version"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath "de.mannodermaus.gradle.plugins:android-junit5:$android_junit5_version"
         // NOTE: Do not place your application dependencies here; they belong
         // in the individual module build.gradle files
     }

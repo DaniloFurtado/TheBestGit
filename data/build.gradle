@@ -1,6 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android-extensions'
 apply plugin: 'kotlin-android'
+
 android {
     compileSdkVersion compileSdk
 
@@ -30,8 +31,6 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
-
-    implementation 'androidx.appcompat:appcompat:1.0.2'
 
     //GSON
     api 'com.google.code.gson:gson:2.8.5'
